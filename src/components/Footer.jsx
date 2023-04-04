@@ -15,7 +15,7 @@ const Footer = () => {
       
       <div className={`${styles.flexCenter} md:flex-row flex-col mb-8 w-full`}>
         
-        <div className='flex-1 flex flex-col justify-start mr-10'>
+        <div className='flex-1 flex flex-col justify-start mr-20'>
           <img src={logo} alt="hoobank" className='w-[266px] h-[72px] object-contain' />
           <p className={`${styles.paragraph} mt-4 max-w-[310px]`}>
             A new way to make your job easy, reliable and secure.

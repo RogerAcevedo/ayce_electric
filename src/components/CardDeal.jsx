@@ -28,7 +28,7 @@ const CardDeal = () => (
 
 {/* RIGHT SIDE PICS */}
       <div className={layout.sectionImg}>
-        <img src={card} alt="card" className='w-[100%] h-[100%]' />
+        <img src={card} alt="card" className='w-[100%] h-[100%] rounded-[50px]' />
       </div>
 
     </section>
