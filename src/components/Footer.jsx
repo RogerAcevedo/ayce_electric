@@ -11,7 +11,7 @@ import { footerLinks, socialMedia } from '../constants'
 
 const Footer = () => {
   return (
-    <section className={`${styles.flexCenter} ${styles.paddingY} flex-col`}>
+    <section className={`${styles.flexCenter} ${styles.paddingY} flex-col`} id='contact' >
       
       <div className={`${styles.flexCenter} md:flex-row flex-col mb-8 w-full`}>
         
